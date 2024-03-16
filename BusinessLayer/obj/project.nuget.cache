@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "U8B4FoYZwzX5NNEOEF+NDfCYlmPSPVo0YA1Ni+z3zmJCu1f6lWKIswQCGjYlKhgTwyinNzGIrFzyCNEJU0RbOw==",
+  "dgSpecHash": "DumRKksB2p5pnAEJ3DdYxqbzOixjrLhxTd3KriPV3AEuVa3IyCW84as+ROyMySsgIfc1Z8121j3arlEUUi2b9A==",
   "success": true,
   "projectFilePath": "/Users/anil/Documents/Development/Dotnet/VenturaCore/BusinessLayer/BusinessLayer.csproj",
   "expectedPackageFiles": [
+    "/Users/anil/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
+    "/Users/anil/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/anil/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "/Users/anil/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/anil/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/Users/anil/.nuget/packages/microsoft.data.sqlclient/2.1.4/microsoft.data.sqlclient.2.1.4.nupkg.sha512",
