@@ -1,3 +1,9 @@
 Traversal-Liberty/
 Traversal-Starter/
 css/
+**/Traversal-Liberty/
+**/Traversal-Starter/
+**/css/
+/wwwroot/Traversal-Liberty/
+/wwwroot/Traversal-Starter/
+/wwwroot/css/
