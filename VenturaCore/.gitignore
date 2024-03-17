@@ -7,3 +7,6 @@ css/
 /wwwroot/Traversal-Liberty/
 /wwwroot/Traversal-Starter/
 /wwwroot/css/
+wwwroot/lib/ 
+*.min.css
+*.min.js
