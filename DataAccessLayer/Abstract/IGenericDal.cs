@@ -1,3 +1,5 @@
+using System.Linq.Expressions;
+
 namespace DataAccessLayer.Abstract
 {
     public interface IGenericDal<T>
@@ -6,5 +8,7 @@ namespace DataAccessLayer.Abstract
         void Delete(T t);
         void Update(T t);
         List<T> GetList();
+        T GetById(int id);
+        List<T> GetListByFilter(Expression<Func<T, bool>> filter);
     }
 }
