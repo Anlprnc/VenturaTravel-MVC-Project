@@ -10,3 +10,7 @@ css/
 wwwroot/lib/ 
 *.min.css
 *.min.js
+/full/relative/path/for/wwwroot/lib
+/full/relative/path/for/wwwroot/Traversal-Liberty/
+/full/relative/path/for/wwwroot/Traversal-Starter/
+/full/relative/path/for/wwwroot/css/
