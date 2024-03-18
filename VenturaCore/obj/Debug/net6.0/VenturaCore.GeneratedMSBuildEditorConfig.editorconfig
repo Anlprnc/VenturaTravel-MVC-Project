@@ -19,6 +19,18 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWVtYmVyL1ZpZXdzL0NvbW1lbnQvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Areas/Member/Views/Destination/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWVtYmVyL1ZpZXdzL0Rlc3RpbmF0aW9uL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Areas/Member/Views/Profile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWVtYmVyL1ZpZXdzL1Byb2ZpbGUvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Areas/Member/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWVtYmVyL1ZpZXdzL19WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Views/Comment/AddComment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29tbWVudC9BZGRDb21tZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -67,12 +79,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vU2lnblVwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Views/MemberLayoutPartial/_FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVtYmVyTGF5b3V0UGFydGlhbC9fRm9vdGVyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Views/MemberLayoutPartial/_HeaderPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVtYmVyTGF5b3V0UGFydGlhbC9fSGVhZGVyUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Views/MemberLayoutPartial/_Navbar2Partial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVtYmVyTGF5b3V0UGFydGlhbC9fTmF2YmFyMlBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Views/MemberLayoutPartial/_NavbarPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVtYmVyTGF5b3V0UGFydGlhbC9fTmF2YmFyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Views/MemberLayoutPartial/_RightbarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVtYmVyTGF5b3V0UGFydGlhbC9fUmlnaHRiYXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Views/MemberLayoutPartial/_ScriptPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVtYmVyTGF5b3V0UGFydGlhbC9fU2NyaXB0UGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Views/Shared/Components/_CommentList/Default.cshtml]

@@ -1,0 +1,26 @@
+@model VenturaCore.Areas.Member.Models.UserEditViewModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<form method="post">
+    @Html.Label("Name")
+    <input type="text" asp-for="name" class="form-control" />
+    <br>
+    @Html.Label("Surname")
+    <input type="text" asp-for="surname" class="form-control" />
+    <br>
+    @Html.Label("Mail")
+    <input type="text" asp-for="mail" class="form-control" />
+    <br>
+    @Html.Label("Password")
+    <input type="text" asp-for="password" class="form-control" />
+    <br>
+    @Html.Label("Confirm Password")
+    <input type="text" asp-for="confirmpassword" class="form-control" />
+    <br>
+    @Html.Label("Phone Number")
+    <input type="text" asp-for="phonenumber" class="form-control" />
+    <br>
+</form>
