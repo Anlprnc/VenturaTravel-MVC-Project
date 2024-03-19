@@ -4,7 +4,7 @@
     Layout = "~/Views/Shared/_UserLayout.cshtml";
 }
 
-<form method="post">
+<form method="post" enctype="multipart/form-data">
     @Html.Label("Name")
     <input type="text" asp-for="name" class="form-control" />
     <br>
@@ -23,4 +23,10 @@
     @Html.Label("Phone Number")
     <input type="text" asp-for="phonenumber" class="form-control" />
     <br>
+    <div class="form-group">
+        <label>Choose Picture</label>
+        <input type="file" asp-for="Image" />
+    </div>
+    <br>
+    <button class="btn btn-primary">Update to informations</button>
 </form>

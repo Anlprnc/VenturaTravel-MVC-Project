@@ -2317,6 +2317,10 @@
       "PackagePath": "staticwebassets/soft-ui-dashboard/pages/virtual-reality.html"
     },
     {
+      "Id": "/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/wwwroot/userimages/081e5e6a-33ab-4e34-9760-3d5a852c81e3.jpg",
+      "PackagePath": "staticwebassets/userimages/081e5e6a-33ab-4e34-9760-3d5a852c81e3.jpg"
+    },
+    {
       "Id": "/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/wwwroot/web/css/style.css",
       "PackagePath": "staticwebassets/web/css/style.css"
     },
