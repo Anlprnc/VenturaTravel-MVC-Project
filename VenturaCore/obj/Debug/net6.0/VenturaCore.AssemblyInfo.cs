@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VenturaCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ed1fd64c76e8aa6647b2d04856916c1d1c5d639")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+252063118a7be7357a46823993d2389fb5a874ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("VenturaCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VenturaCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

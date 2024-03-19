@@ -12,3 +12,4 @@
 /Users/anil/Documents/Development/Dotnet/VenturaCore/EntityLayer/obj/Debug/net6.0/EntityLayer.pdb
 /Users/anil/Documents/Development/Dotnet/VenturaCore/EntityLayer/obj/Debug/net6.0/EntityLayer.genruntimeconfig.cache
 /Users/anil/Documents/Development/Dotnet/VenturaCore/EntityLayer/obj/Debug/net6.0/ref/EntityLayer.dll
+/Users/anil/Documents/Development/Dotnet/VenturaCore/EntityLayer/obj/Debug/net6.0/EntityLayer.sourcelink.json

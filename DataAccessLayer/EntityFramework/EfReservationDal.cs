@@ -10,17 +10,26 @@ namespace DataAccessLayer.EntityFramework
     {
         public List<Reservation> GetListWithReservationByAccepted(int id)
         {
-            throw new NotImplementedException();
+            using (var context = new Context())
+            {
+                return context.Reservations.Include(x => x.Destination).Where(x => x.Status == "Approved" && x.AppUserId == id).ToList();
+            }
         }
 
         public List<Reservation> GetListWithReservationByPrevious(int id)
         {
-            throw new NotImplementedException();
+            using (var context = new Context())
+            {
+                return context.Reservations.Include(x => x.Destination).Where(x => x.Status == "Old Reservation" && x.AppUserId == id).ToList();
+            }
         }
 
         public List<Reservation> GetListWithReservationByWaitApproval(int id)
         {
-            throw new NotImplementedException();
+            using (var context = new Context())
+            {
+                return context.Reservations.Include(x => x.Destination).Where(x => x.Status == "Waiting for approval" && x.AppUserId == id).ToList();
+            }
         }
     }
 }
