@@ -18,8 +18,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Areas/Admin/Views/Destination/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGVzdGluYXRpb24vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Areas/Member/Views/Comment/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWVtYmVyL1ZpZXdzL0NvbW1lbnQvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Areas/Member/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWVtYmVyL1ZpZXdzL0Rhc2hib2FyZC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Areas/Member/Views/Destination/Index.cshtml]
@@ -130,8 +138,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0ZlYXR1cmUvRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Views/Shared/Components/_GuideList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0d1aWRlTGlzdC9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Views/Shared/Components/_PlatformSetting/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX1BsYXRmb3JtU2V0dGluZy9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Views/Shared/Components/_PopularDestination/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX1BvcHVsYXJEZXN0aW5hdGlvbi9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Views/Shared/Components/_ProfileInformation/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX1Byb2ZpbGVJbmZvcm1hdGlvbi9EZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Views/Shared/Components/_SliderPartial/Default.cshtml]
@@ -152,6 +172,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Views/Shared/_UILayout.cshtml]
