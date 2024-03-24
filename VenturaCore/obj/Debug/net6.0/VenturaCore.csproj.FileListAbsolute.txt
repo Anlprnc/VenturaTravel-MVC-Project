@@ -276,9 +276,3 @@
 /Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 /Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/bin/Debug/net6.0/runtimes/win-arm/lib/net6.0/dotnet-aspnet-codegenerator-design.exe
 /Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/bin/Debug/net6.0/runtimes/win-arm64/lib/net6.0/dotnet-aspnet-codegenerator-design.exe
-/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/obj/Debug/net6.0/VenturaCore.sourcelink.json
-/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/obj/Debug/net6.0/staticwebassets/msbuild.VenturaCore.Microsoft.AspNetCore.StaticWebAssets.props
-/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/obj/Debug/net6.0/staticwebassets/msbuild.build.VenturaCore.props
-/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.VenturaCore.props
-/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.VenturaCore.props
-/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/obj/Debug/net6.0/staticwebassets.pack.json

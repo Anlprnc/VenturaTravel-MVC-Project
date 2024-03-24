@@ -5,13 +5,10 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
-build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VenturaCore
 build_property.RootNamespace = VenturaCore
 build_property.ProjectDir = /Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
@@ -36,6 +33,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Areas/Admin/Views/Destination/UpdateDestination.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGVzdGluYXRpb24vVXBkYXRlRGVzdGluYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Areas/Admin/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVXNlci9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Areas/Admin/Views/_ViewImports.cshtml]

@@ -17,4 +17,3 @@
 /Users/anil/Documents/Development/Dotnet/VenturaCore/BusinessLayer/obj/Debug/net6.0/BusinessLayer.pdb
 /Users/anil/Documents/Development/Dotnet/VenturaCore/BusinessLayer/obj/Debug/net6.0/BusinessLayer.genruntimeconfig.cache
 /Users/anil/Documents/Development/Dotnet/VenturaCore/BusinessLayer/obj/Debug/net6.0/ref/BusinessLayer.dll
-/Users/anil/Documents/Development/Dotnet/VenturaCore/BusinessLayer/obj/Debug/net6.0/BusinessLayer.sourcelink.json
