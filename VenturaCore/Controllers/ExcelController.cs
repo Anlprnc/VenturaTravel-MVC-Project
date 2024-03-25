@@ -1,13 +1,20 @@
+using BusinessLayer.Abstract;
 using ClosedXML.Excel;
 using DataAccessLayer.Concrete;
 using Microsoft.AspNetCore.Mvc;
-using OfficeOpenXml;
 using VenturaCore.Models;
 
 namespace VenturaCore.Controllers
 {
     public class ExcelController : Controller
     {
+        private readonly IExcelService _excelService;
+
+        public ExcelController(IExcelService excelService)
+        {
+            _excelService = excelService;
+        }
+
         public IActionResult Index()
         {
             return View();
@@ -31,23 +38,7 @@ namespace VenturaCore.Controllers
 
         public IActionResult StaticExcelReport()
         {
-            ExcelPackage excel = new ExcelPackage();
-            var workSheet = excel.Workbook.Worksheets.Add("Page1");
-
-            workSheet.Cells[1, 1].Value = "Destination";
-            workSheet.Cells[1, 2].Value = "Guide";
-            workSheet.Cells[1, 3].Value = "Capacity";
-
-            workSheet.Cells[2, 1].Value = "Japan Osaka";
-            workSheet.Cells[2, 2].Value = "Zhou";
-            workSheet.Cells[2, 3].Value = "50";
-
-            workSheet.Cells[3, 1].Value = "Serbia - Macedonia";
-            workSheet.Cells[3, 2].Value = "Haruka";
-            workSheet.Cells[3, 3].Value = "35";
-
-            var bytes = excel.GetAsByteArray();
-            return File(bytes, "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "File2.xlsx");
+            return File(_excelService.ExcelList(DestinationList()), "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "NewExcel.xlsx");
         }
 
         public IActionResult DestinationExcelReport()

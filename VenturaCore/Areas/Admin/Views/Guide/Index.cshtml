@@ -28,14 +28,14 @@
             @{
                 if (item.Status == true)
                 {
-                    <td><a href="#" class="btn btn-outline-warning">Make Passive</a></td>
+                    <td><a href="/Admin/Guide/ChangeToFalse/@item.GuideID" class="btn btn-outline-warning">Make Passive</a></td>
                 }
                 else
                 {
-                    <td><a href="#" class="btn btn-outline-info">Make Active</a></td>
+                    <td><a href="/Admin/Guide/ChangeToTrue/@item.GuideID" class="btn btn-outline-info">Make Active</a></td>
                 }
             }
-            <td><a href="#" class="btn btn-outline-success">Edit</a></td>
+            <td><a href="/Admin/Guide/EditGuide/" class="btn btn-outline-success">Edit</a></td>
         </tr>
     }
 </table>

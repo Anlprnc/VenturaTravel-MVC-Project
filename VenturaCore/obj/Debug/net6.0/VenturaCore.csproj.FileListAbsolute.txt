@@ -296,3 +296,12 @@
 /Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/bin/Debug/net6.0/SixLabors.Fonts.dll
 /Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/bin/Debug/net6.0/System.IO.Packaging.dll
 /Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/bin/Debug/net6.0/XLParser.dll
+/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
+/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/bin/Debug/net6.0/iTextSharp.LGPLv2.Core.dll
+/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/bin/Debug/net6.0/SkiaSharp.dll
+/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/bin/Debug/net6.0/System.Text.Encoding.CodePages.dll
+/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/bin/Debug/net6.0/runtimes/osx/native/libSkiaSharp.dylib
+/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/bin/Debug/net6.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/bin/Debug/net6.0/runtimes/win-x64/native/libSkiaSharp.dll
+/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/bin/Debug/net6.0/runtimes/win-x86/native/libSkiaSharp.dll
+/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Text.Encoding.CodePages.dll
