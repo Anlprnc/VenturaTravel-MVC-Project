@@ -30,6 +30,9 @@
               "/Users/anil/Documents/Development/Dotnet/VenturaCore/DataAccessLayer/DataAccessLayer.csproj": {
                 "projectPath": "/Users/anil/Documents/Development/Dotnet/VenturaCore/DataAccessLayer/DataAccessLayer.csproj"
               },
+              "/Users/anil/Documents/Development/Dotnet/VenturaCore/DTOLayer/DTOLayer.csproj": {
+                "projectPath": "/Users/anil/Documents/Development/Dotnet/VenturaCore/DTOLayer/DTOLayer.csproj"
+              },
               "/Users/anil/Documents/Development/Dotnet/VenturaCore/EntityLayer/EntityLayer.csproj": {
                 "projectPath": "/Users/anil/Documents/Development/Dotnet/VenturaCore/EntityLayer/EntityLayer.csproj"
               }
@@ -187,6 +190,60 @@
         }
       }
     },
+    "/Users/anil/Documents/Development/Dotnet/VenturaCore/DTOLayer/DTOLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/anil/Documents/Development/Dotnet/VenturaCore/DTOLayer/DTOLayer.csproj",
+        "projectName": "DTOLayer",
+        "projectPath": "/Users/anil/Documents/Development/Dotnet/VenturaCore/DTOLayer/DTOLayer.csproj",
+        "packagesPath": "/Users/anil/.nuget/packages/",
+        "outputPath": "/Users/anil/Documents/Development/Dotnet/VenturaCore/DTOLayer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/anil/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/Users/anil/Documents/Development/Dotnet/VenturaCore/EntityLayer/EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -316,6 +373,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "ClosedXML": {
               "target": "Package",
               "version": "[0.102.2, )"

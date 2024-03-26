@@ -2,7 +2,6 @@ using BusinessLayer.Abstract;
 using EntityLayer.Concrete;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
-using VenturaCore.Models;
 
 namespace VenturaCore.Areas.Admin.Controllers
 {

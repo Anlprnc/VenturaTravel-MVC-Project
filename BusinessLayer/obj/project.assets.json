@@ -1550,6 +1550,16 @@
           "bin/placeholder/DataAccessLayer.dll": {}
         }
       },
+      "DTOLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DTOLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DTOLayer.dll": {}
+        }
+      },
       "EntityLayer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -3671,6 +3681,11 @@
       "path": "../DataAccessLayer/DataAccessLayer.csproj",
       "msbuildProject": "../DataAccessLayer/DataAccessLayer.csproj"
     },
+    "DTOLayer/1.0.0": {
+      "type": "project",
+      "path": "../DTOLayer/DTOLayer.csproj",
+      "msbuildProject": "../DTOLayer/DTOLayer.csproj"
+    },
     "EntityLayer/1.0.0": {
       "type": "project",
       "path": "../EntityLayer/EntityLayer.csproj",
@@ -3679,6 +3694,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "DTOLayer >= 1.0.0",
       "DataAccessLayer >= 1.0.0",
       "EPPlus >= 7.0.10",
       "EntityLayer >= 1.0.0",
@@ -3718,6 +3734,9 @@
           "projectReferences": {
             "/Users/anil/Documents/Development/Dotnet/VenturaCore/DataAccessLayer/DataAccessLayer.csproj": {
               "projectPath": "/Users/anil/Documents/Development/Dotnet/VenturaCore/DataAccessLayer/DataAccessLayer.csproj"
+            },
+            "/Users/anil/Documents/Development/Dotnet/VenturaCore/DTOLayer/DTOLayer.csproj": {
+              "projectPath": "/Users/anil/Documents/Development/Dotnet/VenturaCore/DTOLayer/DTOLayer.csproj"
             },
             "/Users/anil/Documents/Development/Dotnet/VenturaCore/EntityLayer/EntityLayer.csproj": {
               "projectPath": "/Users/anil/Documents/Development/Dotnet/VenturaCore/EntityLayer/EntityLayer.csproj"
