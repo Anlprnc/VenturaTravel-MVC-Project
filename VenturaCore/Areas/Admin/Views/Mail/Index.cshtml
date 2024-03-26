@@ -1,0 +1,27 @@
+@model VenturaCore.Models.MailRequest
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>New Email Sender Page</h1>
+
+<form method="post">
+    <div class="form-group">
+        @Html.Label("Recipient Mail Address")
+        <input type="text" asp-for="ReceiverMail" class="form-control">
+    </div>
+    <br>
+    <div class="form-group">
+        @Html.Label("Content Title")
+        <input type="text" asp-for="Subject" class="form-control">
+    </div>
+    <br>
+    <div class="form-group">
+        @Html.Label("Message Content")
+        <textarea cols="30" rows="5" class="form-control" asp-for="Body"></textarea>
+        <span asp-validation-for="Body" class="text-danger"></span>
+    </div>
+    <br>
+    <button class="btn btn-outline-primary">Send Mail</button>
+</form>
