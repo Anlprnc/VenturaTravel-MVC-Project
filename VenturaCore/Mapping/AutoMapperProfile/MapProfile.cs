@@ -9,14 +9,20 @@ namespace VenturaCore.Mapping.AutoMapperProfile
     {
         public MapProfile()
         {
-            CreateMap<AnnouncementAddDtos, Announcement>();
-            CreateMap<Announcement, AnnouncementAddDtos>();
+            CreateMap<AnnouncementAddDto, Announcement>();
+            CreateMap<Announcement, AnnouncementAddDto>();
 
             CreateMap<AppUserRegisterDtos, AppUser>();
             CreateMap<AppUser, AppUserRegisterDtos>();
 
             CreateMap<AppUserLoginDtos, AppUser>();
             CreateMap<AppUser, AppUserLoginDtos>();
+
+            CreateMap<AnnouncementListDto, Announcement>();
+            CreateMap<Announcement, AnnouncementListDto>();
+
+            CreateMap<AnnouncementUpdateDto, Announcement>();
+            CreateMap<Announcement, AnnouncementUpdateDto>();
         }
     }
 }
