@@ -1,14 +1,13 @@
-@model GetDestinationByIDQueryResult
+@model CreateDestinationCommand
 @{
-    ViewData["Title"] = "GetDestination";
+    ViewData["Title"] = "AddDestination";
     Layout = "~/Views/Shared/_AdminLayout.cshtml";
 }
 
-<h2>Location Edit Page</h2>
+<h2>New Add Destination Page (CQRS)</h2>
 
 <form method="post">
-    <input type="hidden" asp-for="DestinationID" />
-    <label>City</label>
+    <label>City Name</label>
     <input type="text" asp-for="City" class="form-control" />
     <br>
     <label>Day - Night</label>
@@ -17,5 +16,8 @@
     <label>Price</label>
     <input type="text" asp-for="Price" class="form-control" />
     <br>
-    <button class="btn btn-outline-success">Edit Location Informations</button>
+    <label>Capacity</label>
+    <input type="text" asp-for="Capacity" class="form-control" />
+    <br>
+    <button class="btn btn-outline-primary">Save Tour Destination</button>
 </form>
