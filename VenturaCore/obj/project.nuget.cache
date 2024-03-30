@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZMGxPw+DAjZ7hXl+2+2tDsfM15hoA4y7UsDUCD2yMhCwKwiKX28YuHu/CRsirXPyXXeql3SjW+NzfprV6YkfsQ==",
+  "dgSpecHash": "NH1nZ+jMTTTLO5gOB/eWWgJZEP2UHJ1hPHfN/62IGISV1yBKECGX0EbsdFIz69Hn6gJr0ptnhoBwzlHA86KxkQ==",
   "success": true,
   "projectFilePath": "/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/VenturaCore.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,9 @@
     "/Users/anil/.nuget/packages/irony.netcore/1.0.11/irony.netcore.1.0.11.nupkg.sha512",
     "/Users/anil/.nuget/packages/itextsharp.lgplv2.core/3.4.18/itextsharp.lgplv2.core.3.4.18.nupkg.sha512",
     "/Users/anil/.nuget/packages/mailkit/4.4.0/mailkit.4.4.0.nupkg.sha512",
+    "/Users/anil/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/anil/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/anil/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "/Users/anil/.nuget/packages/messagepack/2.1.152/messagepack.2.1.152.nupkg.sha512",
     "/Users/anil/.nuget/packages/messagepack.annotations/2.1.152/messagepack.annotations.2.1.152.nupkg.sha512",
     "/Users/anil/.nuget/packages/messagepackanalyzer/2.1.152/messagepackanalyzer.2.1.152.nupkg.sha512",
@@ -81,7 +84,7 @@
     "/Users/anil/.nuget/packages/microsoft.extensions.configuration.fileextensions/6.0.0/microsoft.extensions.configuration.fileextensions.6.0.0.nupkg.sha512",
     "/Users/anil/.nuget/packages/microsoft.extensions.configuration.json/6.0.0/microsoft.extensions.configuration.json.6.0.0.nupkg.sha512",
     "/Users/anil/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.0/microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
-    "/Users/anil/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/anil/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "/Users/anil/.nuget/packages/microsoft.extensions.fileproviders.abstractions/6.0.0/microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
     "/Users/anil/.nuget/packages/microsoft.extensions.fileproviders.physical/6.0.0/microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
     "/Users/anil/.nuget/packages/microsoft.extensions.filesystemglobbing/6.0.0/microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
