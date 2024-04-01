@@ -1,8 +1,9 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace VenturaCore.Controllers
 {
-    [Route("[controller]")]
+    [AllowAnonymous]
     public class DefaultController : Controller
     {
         public IActionResult Index()
