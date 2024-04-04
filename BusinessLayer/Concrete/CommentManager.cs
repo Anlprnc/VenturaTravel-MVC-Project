@@ -47,5 +47,10 @@ namespace BusinessLayer.Concrete
         {
             return _commentDal.GetListCommentWithDestiantion();
         }
+
+        public List<Comment> TGetListCommentWithDestinationAndUser(int id)
+        {
+            return _commentDal.GetListCommentWithDestinationAndUser(id);
+        }
     }
 }
