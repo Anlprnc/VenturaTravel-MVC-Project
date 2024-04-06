@@ -1,8 +1,9 @@
+
 @{
-    ViewData["Title"] = "Index3";
+    ViewData["Title"] = "Index2";
 }
 
-<h1>Index3</h1>
+<h1>Index2</h1>
 
 @section Scripts
 {
@@ -15,9 +16,9 @@
 
             var visitChartList = new Array();
 
-            visitChartList.push(["Tarih", "Berlin", "İstanbul", "Ankara", "London", "İzmir"])
+            visitChartList.push(["Tarih", "İstanbul", "Ankara", "İzmir", "Konya", "Antalya"])
 
-            var connection = new signalR.HubConnectionBuilder().withUrl("http://localhost:7028/VisitorHub").build();
+            var connection = new signalR.HubConnectionBuilder().withUrl("http://localhost:35517/VisitorHub").build();
 
             $("#connectionStatus").text(connection.connectionState);
 
@@ -46,7 +47,7 @@
                 var data = google.visualization.arrayToDataTable(visitChartList);
 
                 var options = {
-                    title: 'Ventura Guest List Graphic',
+                    title: 'Başlık',
                     curveType: 'none',
                     legend: { position: 'bottom' }
                 };
@@ -64,7 +65,7 @@
 <div class="container">
     <br />
     <div class="alert alert-warning">
-        Connection Status:<b id="connectionStatus"></b>
+        Bağlantınızın Durumu:<b id="connectionStatus"></b>
     </div>
 </div>
 <br />
