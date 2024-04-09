@@ -167,6 +167,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWVtYmVyL1ZpZXdzL0Rhc2hib2FyZC9NZW1iZXJEYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Areas/Member/Views/Destination/GetCitiesSeachByName.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWVtYmVyL1ZpZXdzL0Rlc3RpbmF0aW9uL0dldENpdGllc1NlYWNoQnlOYW1lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Areas/Member/Views/Destination/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWVtYmVyL1ZpZXdzL0Rlc3RpbmF0aW9uL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -317,6 +321,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Views/MemberLayoutPartial/_ScriptPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVtYmVyTGF5b3V0UGFydGlhbC9fU2NyaXB0UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Views/PasswordChange/ForgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFzc3dvcmRDaGFuZ2UvRm9yZ2V0UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Views/PasswordChange/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFzc3dvcmRDaGFuZ2UvUmVzZXRQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/anil/Documents/Development/Dotnet/VenturaCore/VenturaCore/Views/PdfReport/Index.cshtml]
